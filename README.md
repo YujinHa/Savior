@@ -4,5 +4,5 @@
 - 아케이드 + 전략 게임
 
 시연영상
-https://youtu.be/RnjTzzRdsFg
+https://youtu.be/qu85VD5SY9I
 
